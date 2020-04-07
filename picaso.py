@@ -1,5 +1,6 @@
 from PIL import Image
 
+#if any error shows up, install pillow by using this command "pip install Pillow"
 #if the image shows any distortion, keep the size = (500, 500) or toggle with this value to get a perfect image
 
 image = "vegeta.jpg"
